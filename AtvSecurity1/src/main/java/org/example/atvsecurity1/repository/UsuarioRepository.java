@@ -1,10 +1,9 @@
-package org.example.security.repository;
+package org.example.atvsecurity1.repository;
 
-import org.example.security.entity.Usuario;
+import org.example.atvsecurity1.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import java.beans.JavaBean;
 import java.util.Optional;
 
 @Repository
